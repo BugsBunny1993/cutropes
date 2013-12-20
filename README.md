@@ -31,4 +31,7 @@ Do not move finger too fast, otherwise you can't cut the rope in some case.
 
 别割得太快了，某些情况下可能会穿过绳子而不会割到它。
 
-新手勿喷。。。哈哈
+新手作品， 勿喷。。。哈哈
+
+
+，补充，貌似超了过300行。  整个项目放到cocos2dx的project目录下运行
